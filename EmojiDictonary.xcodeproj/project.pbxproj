@@ -96,7 +96,6 @@
 				TargetAttributes = {
 					0C87FA271EC0169D0066145B = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = 7PQ469BD6L;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -263,7 +262,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 7PQ469BD6L;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = EmojiDictonary/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = escuela.EmojiDictonary;
@@ -276,7 +275,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 7PQ469BD6L;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = EmojiDictonary/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = escuela.EmojiDictonary;
